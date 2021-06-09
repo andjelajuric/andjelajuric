@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><a href = "andela.html#digitalni_multimedij">Moja stranica - Anđela Juric - sidrenje</a>
+-->
+<a href = "andela.html#digitalni_multimedij">Moja stranica - Anđela Juric - sidrenje</a>
 <p>
 <a href = "andela2.html#slike">Slike</a>
 
