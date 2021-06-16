@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 <a href = "andela.html#digitalni_multimedij">Moja stranica - Anđela Juric - sidrenje</a>
 <p>
-<a href = "andela2.html#slike">Slike</a>
+ Projektni zadatak
+ </p>
+ <p>
+<a href = "index.html">Link na html</a>
 
