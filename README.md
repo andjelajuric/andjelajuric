@@ -19,5 +19,5 @@ Here are some ideas to get you started:
  Projektni zadatak
  </p>
  <p>
-<a href = "index.html">Link na html</a>
+<a href = "index.html">Ovo je link na html</a>
 
